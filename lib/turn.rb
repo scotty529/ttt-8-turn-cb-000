@@ -37,5 +37,5 @@ def turn(board)
   if !new_valid_move 
      input = gets.strip
   end
-    
+
 end
